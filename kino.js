@@ -3,8 +3,8 @@ const mongoose = require('mongoose');
 const express = require('express');
 
 // SOZLAMALAR
-const BOT_TOKEN = '8504888393:AAHUV2fMIjvo00feV_tJhKtHdwhnX_eJNm8';
-const MONGODB_URL = 'mongodb+srv://abumafia0:abumafia0@abumafia.h1trttg.mongodb.net/kinojanbot?appName=abumafia';
+const BOT_TOKEN = '8218243676:AAF-SfL55IaAkckGn4x-Dr6ECGCtNBd27W8';
+const MONGODB_URL = 'mongodb+srv://abumafia0:abumafia0@abumafia.h1trttg.mongodb.net/porn18xbot?appName=abumafia';
 
 // Adminlar ro'yxati
 const ADMIN_IDS = [6606638731, 901126203];
