@@ -7,7 +7,7 @@ const BOT_TOKEN = '8218243676:AAF-SfL55IaAkckGn4x-Dr6ECGCtNBd27W8';
 const MONGODB_URL = 'mongodb+srv://abumafia0:abumafia0@abumafia.h1trttg.mongodb.net/porn18xbot?appName=abumafia';
 
 // Adminlar ro'yxati
-const ADMIN_IDS = [6606638731, 901126203];
+const ADMIN_IDS = [6606638731, 901126203, 6457355191];
 
 // Render.com muhit o'zgaruvchilari
 const PORT = process.env.PORT || 10000;
